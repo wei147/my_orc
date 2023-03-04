@@ -1,0 +1,16 @@
+D:\project\my-application\src\main\java\com\wei\application\filter\WebLogAspect.java
+D:\project\my-application\src\main\java\com\wei\application\Service\QRCodeService.java
+D:\project\my-application\src\main\java\com\wei\application\ocr\RecognizeBasic.java
+D:\project\my-application\src\main\java\com\wei\application\Service\OcrService.java
+D:\project\my-application\src\main\java\com\wei\application\common\ApiRestResponse.java
+D:\project\my-application\src\main\java\com\wei\application\config\AppWebMvcConfig.java
+D:\project\my-application\src\main\java\com\wei\application\utils\RecognizeBasic.java
+D:\project\my-application\src\main\java\com\wei\application\exception\AppException.java
+D:\project\my-application\src\main\java\com\wei\application\Service\Impl\OcrServiceImpl.java
+D:\project\my-application\src\main\java\com\wei\application\Application.java
+D:\project\my-application\src\main\java\com\wei\application\controller\MainController.java
+D:\project\my-application\src\main\java\com\wei\application\common\Constant.java
+D:\project\my-application\src\main\java\com\wei\application\exception\AppExceptionEnum.java
+D:\project\my-application\src\main\java\com\wei\application\utils\QRCodeGenerator.java
+D:\project\my-application\src\main\java\com\wei\application\exception\GlobalExceptionHandler.java
+D:\project\my-application\src\main\java\com\wei\application\Service\Impl\QRCodeServiceImpl.java
